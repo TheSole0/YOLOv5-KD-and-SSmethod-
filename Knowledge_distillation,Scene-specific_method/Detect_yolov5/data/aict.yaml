@@ -1,0 +1,5 @@
+train: Datasets/big_test/trainSets/images
+val: Datasets/big_test/valSets/images
+
+nc: 2
+names: ['VR_Person','VR_Car']

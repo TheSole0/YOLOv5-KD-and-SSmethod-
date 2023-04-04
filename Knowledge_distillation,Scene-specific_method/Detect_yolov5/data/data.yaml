@@ -1,0 +1,5 @@
+train: Tsets/images
+val: Vsets/images
+
+nc: 2
+names: ['VR_Person','VR_Car']
